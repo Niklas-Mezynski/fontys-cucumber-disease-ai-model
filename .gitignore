@@ -1,3 +1,5 @@
 training_data/
 validation_data/
+models/
+models_2/
 .env
